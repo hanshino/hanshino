@@ -1,6 +1,5 @@
 # hanshino
 
----
 
 ## About Me
 
@@ -10,7 +9,6 @@
 
 技術棧不重要，能解決問題就好。（這句話我已經說服自己很多年了。）
 
----
 
 ## 為什麼是 Claude
 
@@ -23,7 +21,6 @@
 - **Debug**：直接貼 stack trace，省下來的時間拿去喝咖啡。咖啡喝完，bug 也修好了。
 - **最花心思的地方**：把需求講清楚。這件事以前叫「寫 spec」，現在叫「prompt engineering」，差別是這次對方不會抱怨需求又改了。
 
----
 
 ## 技術棧
 
@@ -34,7 +31,6 @@
 | **AI Tooling** | Claude / Prompt Engineering / Agent Workflow | 本職：跟 AI 講道理               |
 | **OS**         | Linux (CentOS / Ubuntu / Raspbian)           | 看到黑底白字才有安全感           |
 
----
 
 ## Side Project
 
@@ -44,7 +40,6 @@
 
 早期功能全是手刻，現在新 feature 幾乎都跟 Claude 協作完成。翻 commit history 很像在看地層：某一天開始，命名風格突然變得很一致，那就是 AI 加入的分界線。
 
----
 
 *認真花一個月寫小工具來偷懶，是工程師最浪漫的事。*
 *（現在這個月通常縮短成一個下午，剩下的時間用來檢查它有沒有偷偷改我的東西。）*
